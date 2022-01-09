@@ -1,5 +1,5 @@
 # Tinders_Bot
-a bot for swiping for tinder
+A bot for swiping for tinder
 
 Hi welcome to the bot here is how to make it work
 
