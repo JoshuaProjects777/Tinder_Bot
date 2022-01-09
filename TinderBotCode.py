@@ -8,7 +8,7 @@
 
 ##Please note this is not a fully operated bot there is only one element missing which is
 #when tinder wishes to gain permision the bot clicks on the allow button then it swifts to the broswer to allow permission
-#this allow button presented by the broser and not by tinder has to be clicked manuelly
+#this allow button presented by the broser and not by tinder has to be clicked manuelly(see redme.txt)for info
 #so this one button is the only button to be clicked manuelly the enable notification button after that is automated so dont
 #click on anything.
 
