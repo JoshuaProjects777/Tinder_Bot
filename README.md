@@ -4,9 +4,19 @@ a bot for swiping for tinder
 Hi welcome to the bot here is how to make it work
 
 Requirments:
-Undectected chromedriverv2.
-selenium(chrome)
-A Google account with 2 step verification turned off also swicth off secure connections incase error appears during google login
+
+
+1.Undectected chromedriverv2.
+
+
+
+2.Selenium(chrome)
+
+
+
+3.A Google account with 2 step verification turned off also swicth off secure connections incase error appears during google login
+
+
 
 Steps to run the programe:
 
@@ -23,7 +33,7 @@ let the programe run and it will take you to this broswer option where it will a
 
 
 
-this is where you have to use your mouse and click the allow button this has to be done manuelly (note if it is not clicked in 5 secs the programme shutdowns to aviod dectection)
+this is where you have to use your mouse and click the allow button this has to be done manuelly (note if it is not clicked in 5 secs the programme shutdowns to avoi dectection)
 
 
 once that is done leave the programme as everything else will be automated by itself 
